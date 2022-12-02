@@ -2,7 +2,7 @@ Name of the project <br>
 FriendlyMonsters NFT
  
 Description of the project <br>
-NFT collection finalized to build a connection between blockchain and real world to bring Multiverse X adoption in Italy.
+NFT collection finalized to build a connection between blockchain and real world to bring Multiverse X adoption in Italy
  
 Purpose <br>
 As a benefit (and also as an example to new people into blockchain) we distribute farmed LK-MEX every 2 months. Each NFT produces an average of 6/8 k LK-MEX
